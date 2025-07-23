@@ -11,7 +11,7 @@ const cookieParser = require("cookie-parser");
 
 const allowedOrigins = [
   "http://localhost:3000", // for local dev
-  "https://workbuddy-frontend.onrender.com" // replace with actual frontend Render domain
+  "https://workbuddy-idpe.onrender.com/" // replace with actual frontend Render domain
 ];
 
 // Config
